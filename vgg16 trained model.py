@@ -1,6 +1,5 @@
-# -*- coding: utf-8 -*-
-"""
-@author: Krish.Naik
+""""
+@ author rudransh 
 """
 
 from keras.layers import Input, Lambda, Dense, Flatten
